@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Feature 1 content" 
+=======
+"Feature 2 content" 
+>>>>>>> feature_merge_conflict2
