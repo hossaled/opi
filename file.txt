@@ -3,3 +3,5 @@
 =======
 "Feature 2 content" 
 >>>>>>> feature_merge_conflict2
+
+добавление информации
